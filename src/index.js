@@ -1,3 +1,6 @@
+/*
+* every jsx must have React imported from react
+* */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
